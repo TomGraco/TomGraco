@@ -2,16 +2,15 @@
 
 ## About Me
 - 🎓 **Currently Learning**: Programming at an Intensive Bootcamp.
-- 👀 **Interests**: Anime, coding, and tech.
+- 👀 **Interests**: Anime, Radical Activities, and tech.
 - 🌍 **From**: [Almeirim, Portugal]
 - ⚡ **Fun Fact**: I like to eat a Pastel de Nata with a spoon!
 
 ## 🛠️ Technologies & Tools
 Here's a quick overview of the tools and languages I'm working with:
 
-- **Languages**: JavaScript, Java (and still leraning more!)
-- **Tools**: VS Code, Git, Postman, etc.
-- **Frameworks**: (If you’re learning any, like React, Django, etc.)
+- **Languages**: JavaScript, Java (and still learning more!)
+- **Tools**: Ant, Git, Maven, etc.
 
 ## 🌱 Currently Working On
 - 🚀 Building projects as part of my bootcamp
