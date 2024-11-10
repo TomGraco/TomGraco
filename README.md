@@ -3,13 +3,13 @@
 ## About Me
 - 🎓 **Currently Learning**: Programming at an Intensive Bootcamp.
 - 👀 **Interests**: Anime, coding, and tech.
-- 🌍 **From**: [Your Country or City]
+- 🌍 **From**: [Almeirim, Portugal]
 - ⚡ **Fun Fact**: I like to eat a Pastel de Nata with a spoon!
 
 ## 🛠️ Technologies & Tools
 Here's a quick overview of the tools and languages I'm working with:
 
-- **Languages**: JavaScript, Python, Java (update as you learn more!)
+- **Languages**: JavaScript, Java (and still leraning more!)
 - **Tools**: VS Code, Git, Postman, etc.
 - **Frameworks**: (If you’re learning any, like React, Django, etc.)
 
@@ -18,11 +18,11 @@ Here's a quick overview of the tools and languages I'm working with:
 - 📚 Exploring open-source contributions
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile) (if you’re active here!)
+- [LinkedIn](www.linkedin.com/in/tomás-graço)
+- [Instagram](https://www.instagram.com/tabemohgrasso/)
 
 ## 💻 My Goals
-- 💼 Break into tech as a [Your Target Role, e.g., Full Stack Developer]
+- 💼 Break into tech as a [Full Stack Developer]
 - 💪 Level up in data structures, algorithms, and coding challenges
 - 🏆 Build a project portfolio
 
