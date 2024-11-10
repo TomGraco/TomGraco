@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 **Currently Learning**: Programming at an Intensive Bootcamp.
-- 👀 **Interests**: Anime, Radical Activities, and tech.
+- 👀 **Interests**: Anime, Radical Activities, Cooking, and tech.
 - 🌍 **From**: [Almeirim, Portugal]
 - ⚡ **Fun Fact**: I like to eat a Pastel de Nata with a spoon!
 
