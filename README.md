@@ -18,7 +18,7 @@ Here's a quick overview of the tools and languages I'm working with:
 - 📚 Exploring open-source contributions
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/tomás-graço)
+- [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-gra%C3%A7o/)
 - [Instagram](https://www.instagram.com/tabemohgrasso/)
 
 ## 💻 My Goals
