@@ -1,7 +1,7 @@
 # 👋 Hello there, welcome to my GitHub profile!
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkyMndhY3lrYWh3aXUyNjkyMG9ydXI4bHR0aWwwMTJveW9mcjN4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gSJ5Q7Uh8Fi4E/giphy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="<iframe src="https://giphy.com/embed/gSJ5Q7Uh8Fi4E" width="480" height="286" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-wave-gSJ5Q7Uh8Fi4E">via GIPHY</a></p>">
 </div>
 
 </br>
