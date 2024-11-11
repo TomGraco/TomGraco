@@ -1,7 +1,7 @@
 # 👋 Hello there, welcome to my GitHub profile!
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://">
 </div>
 
 </br>
@@ -44,9 +44,10 @@ Here's a quick overview of the tools and languages I'm working with:
 <!-- Optional: Add additional GitHub Stats -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github.com/TomGraco/TomGraco/blob/main/pixel_art.png" alt="Cool Banner"/>
-</p>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
+</div>
+
 ---
 
 
