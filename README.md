@@ -1,7 +1,7 @@
 # 👋 Hello there, welcome to my GitHub profile!
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="<iframe src="https://giphy.com/embed/gSJ5Q7Uh8Fi4E" width="480" height="286" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-wave-gSJ5Q7Uh8Fi4E">via GIPHY</a></p>">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
