@@ -5,8 +5,7 @@
 </div>
 
 </br>
-</br>
-</br>
+
 
 ## 👨‍💻 About Me
 - 🎓 **Currently Learning**: Programming at an Intensive Bootcamp.
