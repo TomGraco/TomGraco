@@ -19,6 +19,7 @@ Here's a quick overview of the tools and languages I'm working with:
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-gra%C3%A7o/)
 - [Instagram](https://www.instagram.com/tabemohgrasso/)
+- [Discord](http://discordapp.com/users/757943871501238273)
 - 📧 [Hotmail to Me](mailto:baptistag1@hotmail.com)
 - 📧 [Gmail to Me](mailto:baptistagraco1@gmail.com)
 
