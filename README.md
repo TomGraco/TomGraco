@@ -37,10 +37,7 @@ Here's a quick overview of the tools and languages I'm working with:
 <!-- Optional: Add additional GitHub Stats -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://![image](https://github.com/user-attachments/assets/f2bed690-1bee-4c74-b492-a0a2fb07bb9f)
-/banner.jpg" alt="Cool Banner"/>
-</p>
+
 
 ---
 
