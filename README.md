@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @TomGraco
+# 👋 Hello there, welcome to my GitHub profile!
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
