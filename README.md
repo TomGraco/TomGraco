@@ -1,7 +1,7 @@
 # 👋 Hello there, welcome to my GitHub profile!
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/78GR.gif">
+<img hight="100" width="400" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/78GR.gif">
 </div>
 
 </br>
