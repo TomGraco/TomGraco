@@ -26,6 +26,11 @@ Here's a quick overview of the tools and languages I'm working with:
 - 🚀 Building projects as part of my bootcamp
 - 📚 Exploring open-source contributions
 
+## 🎓 Bootcamp Progress
+- ✅ Learned Java basics and Object-Oriented Programming.  
+- 🚧 Currently mastering REST APIs and Spring Framework.  
+- 🔜 Next up: Advanced JavaScript and React.
+
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tom%C3%A1s-gra%C3%A7o/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/tabemohgrasso/)
@@ -48,6 +53,10 @@ Here's a quick overview of the tools and languages I'm working with:
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
 </div>
 
+
+
+### 🐍 Watch My Contributions Snake!
+![Snake Animation](https://github.com/TomGraco/TomGraco/raw/output/snake.svg)
 ---
 
 
