@@ -44,12 +44,16 @@ Here's a quick overview of the tools and languages I'm working with:
 - 🏆 Build a project portfolio
 
 ## 📊 GitHub Stats
-![TomGraco's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomGraco&show_icons=true&theme=radical)
 
-<!-- Optional: Add additional GitHub Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomGraco&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomGraco&show_icons=true&theme=radical" alt="TomGraco's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomGraco&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
