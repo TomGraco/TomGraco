@@ -49,6 +49,8 @@ Here's a quick overview of the tools and languages I'm working with:
 <!-- Optional: Add additional GitHub Stats -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomGraco&theme=radical)](https://git.io/streak-stats)
+
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomGraco/TomGraco/blob/main/T9aF.gif">
 </div>
