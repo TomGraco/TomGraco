@@ -43,6 +43,10 @@ Here's a quick overview of the tools and languages I'm working with:
 - 💪 Level up in data structures, algorithms, and coding challenges
 - 🏆 Build a project portfolio
 
+  <div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Debugging GIF" width="500">
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -61,9 +65,7 @@ Here's a quick overview of the tools and languages I'm working with:
 
 
 
-### 🐍 Watch My Contributions Snake!
-![Snake Animation](https://github.com/TomGraco/TomGraco/raw/output/snake.svg)
----
+
 
 
 <!---
