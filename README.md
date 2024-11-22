@@ -43,8 +43,14 @@ Here's a quick overview of the tools and languages I'm working with:
 - 💪 Level up in data structures, algorithms, and coding challenges
 - 🏆 Build a project portfolio
 
-  <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Debugging GIF" width="500">
+  ## 💻 Developer Vibes
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
+  <br />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Laptop with code" width="400">
+  <br />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Terminal Animation" width="500">
 </div>
 
 ## 📊 GitHub Stats
