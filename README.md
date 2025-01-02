@@ -22,14 +22,20 @@ Here's a quick overview of the tools and languages I'm working with:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=flat)
 
-## 🌱 Currently Working On
-- 🚀 Building projects as part of my bootcamp
-- 📚 Exploring open-source contributions
+## 🌟 What's New  
+- 🎉 Completed my programming bootcamp!  
+- 🚀 Transitioning into real-world projects and exploring new technologies.  
 
-## 🎓 Bootcamp Progress
-- ✅ Learned Java basics and Object-Oriented Programming.  
-- 🚧 Currently mastering REST APIs and Spring Framework.  
-- 🔜 Next up: Advanced JavaScript and React.
+## 💻 Current Focus  
+- 🌐 Building full-stack applications with Java, Spring Framework, and more.  
+- 🛠 Diving deeper into advanced JavaScript patterns and state management.  
+- 🤝 Actively contributing to open-source projects to grow and give back to the community.  
+
+## 🧭 Future Plans  
+- 📖 Pursuing certifications in cloud technologies and DevOps.  
+- 🧪 Experimenting with new frameworks and libraries to expand my skillset.  
+- 🚀 Preparing for my first professional role in software development!  
+
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tom%C3%A1s-gra%C3%A7o/)
