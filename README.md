@@ -8,8 +8,8 @@
 
 
 ## 👨‍💻 About Me
-- 🎓 **Currently Learning**: Programming at an Intensive Bootcamp.
-- 👀 **Interests**: Anime, Radical Activities, Camping, Cooking, and Tech.
+- 🎓 ** Completed**: Programming at an Intensive Bootcamp.
+- 👀 **Interests**: Anime, Radical Activities, Camping, Cooking, Tech and Gym.
 - 🌍 **From**: Almeirim, Portugal
 - ⚡ **Fun Fact**: I like to eat a Pastel de Nata with a spoon! 🍮
 
@@ -18,23 +18,28 @@ Here's a quick overview of the tools and languages I'm working with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![OutSystems](https://img.shields.io/badge/-OutSystems-6A4E9C?logo=outsystems&logoColor=white&style=flat)
 ![Ant](https://img.shields.io/badge/-Ant-A81D33?logo=apache-ant&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=flat)
 
 ## 🌟 What's New  
-- 🎉 Completed my programming bootcamp!  
-- 🚀 Transitioning into real-world projects and exploring new technologies.  
+- 🎉 **Bootcamp**: Completed an intensive programming bootcamp!  
+- 🎉 **OutSystems**: Completed an intensive OutSystems lab and expanded knowledge in the platform.  
+- 🚀 Transitioning into real-world projects with a focus on **OutSystems**.  
+- 💼 Currently looking for job opportunities with a preference for OutSystems-related roles.
 
 ## 💻 Current Focus  
-- 🌐 Building full-stack applications with Java, Spring Framework, and more.  
-- 🛠 Diving deeper into advanced JavaScript patterns and state management.  
-- 🤝 Actively contributing to open-source projects to grow and give back to the community.  
+- 🌐 Building full-stack applications, with a focus on **OutSystems**.
+- 🛠 Continuing to deepen my expertise in **OutSystems** and pursuing relevant certifications.
+- 🔧 Tuning and improving some of my projects to make them production-ready.
+- 🤝 Actively contributing to open-source projects and growing my network.
 
 ## 🧭 Future Plans  
-- 📖 Pursuing certifications in cloud technologies and DevOps.  
-- 🧪 Experimenting with new frameworks and libraries to expand my skillset.  
-- 🚀 Preparing for my first professional role in software development!  
+- 📖 Completing certifications in **OutSystems** and other technologies to broaden my skill set.  
+- 🧪 Exploring new frameworks and libraries to expand my knowledge.  
+- 🚀 Seeking my first professional role, with a strong preference for **OutSystems** positions.  
+- 💪 Continuously improving my skills and preparing for a solid career in the IT market.
 
 
 ## 📫 How to Reach Me
@@ -45,20 +50,17 @@ Here's a quick overview of the tools and languages I'm working with:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:baptistagraco1@gmail.com)
 
 ## 💻 My Goals
-- 💼 Break into tech as a **Full Stack Developer**
-- 💪 Level up in data structures, algorithms, and coding challenges
-- 🏆 Build a project portfolio
-
+- 💼 Break into tech as a **Full Stack Developer**, with a focus on **OutSystems**.
+- 💪 Continue improving skills in data structures, algorithms, and coding challenges.
+- 🏆 Build a solid portfolio of **OutSystems** and full-stack projects.
+  
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomGraco&show_icons=true&theme=radical" alt="TomGraco's GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomGraco&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomGraco&theme=radical" alt="GitHub Streak" />
-  </a>
+ 
 </div>
 
 <div align="center">
