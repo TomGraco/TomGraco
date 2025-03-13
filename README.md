@@ -8,7 +8,7 @@
 
 
 ## 👨‍💻 About Me
-- 🎓 ** Completed**: Programming at an Intensive Bootcamp.
+- 🎓 **Completed**: Programming at an Intensive Bootcamp.
 - 👀 **Interests**: Anime, Radical Activities, Camping, Cooking, Tech and Gym.
 - 🌍 **From**: Almeirim, Portugal
 - ⚡ **Fun Fact**: I like to eat a Pastel de Nata with a spoon! 🍮
